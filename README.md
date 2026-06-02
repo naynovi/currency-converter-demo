@@ -5,7 +5,7 @@ This repository is part of the articles:
 * [Steal that API key with a Man in the Middle Attack](https://blog.approov.io/steal-that-api-key-with-a-man-in-the-middle-attack).
 * [Securing HTTPS with Certificate Pinning on Android](https://blog.approov.io/securing-https-with-certificate-pinning-on-android).
 * [Bypassing Certificate Pinning](https://blog.approov.io/bypassing-certificate-pinning).
-* [How to Protect Against Certificate Pinning Bypassing](https://blog.approov.io/how-to-protect-against-certificate-pinning-bypassing).
+* [How to Protect Against Certificate Pinning Bypassing](https://approov.io/blog/how-to-protect-against-certificate-pinning-bypassing).
 
 
 ## HOW TO USE
